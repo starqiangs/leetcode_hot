@@ -1,0 +1,5 @@
+.git
+cmake-build-debug
+bin
+.vscode
+.idea
